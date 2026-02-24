@@ -68,4 +68,41 @@ Commands:
 Used daily in real proj commands
 11.git log-view commit history
 12.git merge-merge another branch
-13.
+13.git fetch-download updaes withiut merge
+14.git switch-modern branch switching
+15.git stash-save uncomitted changes
+16.git stash pop-restore stashed work
+17.git reset-undo staged /committed changes
+18.git rm-remove a file
+19.git mv-rename/move a file
+20.git diff-see diff btw versions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+process:
+git -v
+git init
+git remote -v
+git remote add origin 
+git remote -v
+git status
+git add "filename for 1 file"
+git add .
+git branch
+git branch -M main
+git branch
+git status
+git commit "msg"
+git push -u origin main(if showing error like not stored locally thn use git pull origin main --rebase)
+then git push origin main
