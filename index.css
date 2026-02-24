@@ -1,0 +1,42 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .List-style-class {
+            display: flex;
+            list-style: none;
+            gap: 20px;
+        }
+
+        List-style-Id {
+            display: flex;
+            list-style: none;
+            gap: 20px;
+        }
+
+        h1 {
+            font-size: 12px;
+        }
+
+        @media (max-width: 600px) {
+            h1{
+                font-size: 12px;
+            }}
+        .List-style-class {
+         flex-direction: coloumn;
+            list-style: none;
+            gap: 20px;
+        }
+
+
+
+
+
+
+
+
+        @media (min-width: 600px) {
+            h1{
+                font-size: 12px;
+            }}
